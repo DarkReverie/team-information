@@ -9,13 +9,25 @@ const teamMembers: TeamMember[] = [
     image: 'https://avatars.githubusercontent.com/u/125183903?v=4',
   },
   {
-    id: 4,
+    id: 2,
     name: 'Danylo Savytskyi',
     position: 'Project Manager',
     image: 'https://avatars.githubusercontent.com/u/107762418?s=400&u=b1347f293f12a1399ada2731cad8610890be2375&v=4',
   },
   {
     id: 3,
+    name: 'Oleksandr Suslov',
+    position: 'Web Designer',
+    image: 'https://avatars.githubusercontent.com/u/113384549?v=4',
+  },
+  {
+    id: 4,
+    name: 'Suslova Anna',
+    position: 'QA Engineer',
+    image: 'https://avatars.githubusercontent.com/u/51747613?v=4',
+  },
+  {
+    id: 5,
     name: 'Vlad Snisar',
     position: 'BackEnd Developer',
     image: 'https://avatars.githubusercontent.com/u/85521093?v=4',
