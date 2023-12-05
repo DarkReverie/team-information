@@ -10,6 +10,12 @@ const teamMembers: TeamMember[] = [
     image: 'https://avatars.githubusercontent.com/u/125183903?v=4',
   },
   {
+    id: 2,
+    name: 'Suslova Anna',
+    position: 'QA Engineer',
+    image: 'https://avatars.githubusercontent.com/u/51747613?v=4',
+  },
+  {
     id: 3,
     name: 'Vlad Snisar',
     position: 'BackEnd Developer',
