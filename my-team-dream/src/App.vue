@@ -29,7 +29,7 @@ const teamMembers: TeamMember[] = [
   {
     id: 5,
     name: 'Vlad Snisar',
-    position: 'Developer',
+    position: 'Placeholder',
     image: 'https://avatars.githubusercontent.com/u/85521093?v=4',
   }
 ];
